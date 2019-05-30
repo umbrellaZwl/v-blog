@@ -1,0 +1,20 @@
+{
+  "name": "v-blog",
+  "version": "1.0.0",
+  "description": "blog by vuepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "blog"
+  ],
+  "author": "zwl",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}

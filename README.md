@@ -1,2 +1,1 @@
-# v-blog
-blog
+# blog by vuepress
