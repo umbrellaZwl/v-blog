@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist",
+    "deploy:build": "npm run docs:build && npm run deploy"
   },
   "keywords": [
     "vue",
@@ -15,6 +17,7 @@
   "author": "zwl",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^0.14.11"
+    "gh-pages": "^2.1.1",
+    "vuepress": "^1.2.0"
   }
 }
