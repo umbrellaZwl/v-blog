@@ -3,6 +3,10 @@ module.exports = {
   description: 'Just playing around',
   base: '/v-blog/',
   themeConfig: {
-    sidebar: ['/', '/代码规范之vscode搭配linter&prettier']
+    sidebar: [
+      '/',
+      '/vscode搭配linter&prettier',
+      '/常用代码片段'
+    ]
   }
 }
