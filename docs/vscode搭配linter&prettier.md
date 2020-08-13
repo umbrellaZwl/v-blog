@@ -1,4 +1,4 @@
-# 代码规范之vscode搭配linter&prettier
+# vscode搭配linter&prettier
 
 Linter能对你的代码进行质量检查，格式化的功能比较有限。例如代码里有多余空格并不是lint error，因此也不会进行`eslint —fix`来修复。而[prettier](https://prettier.io/)意为更美丽，是一个代码格式化工具，能很好地弥补`linter`对`code formmat`的不足。结合linter和prettier，检测代码中的潜在问题，统一代码规范，助力写出高质量代码，提高工作效率。
 

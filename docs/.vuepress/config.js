@@ -6,7 +6,9 @@ module.exports = {
     sidebar: [
       '/',
       '/vscode搭配linter&prettier',
-      '/常用代码片段'
+      '/常用代码片段',
+      '/浏览器进程和js线程',
+      '/script标签的async和deffer',
     ]
   }
 }
