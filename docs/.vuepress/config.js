@@ -9,6 +9,8 @@ module.exports = {
       '/常用代码片段',
       '/浏览器进程和js线程',
       '/script标签的async和deffer',
+      '/fetch',
+      '/Http1.0、Http1.1、Http2.0'
     ]
   }
 }
