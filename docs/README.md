@@ -4,6 +4,8 @@
 [vscode搭配linter&prettier](vscode搭配linter&prettier.md)
 ## 常用代码
 [常用代码片段](常用代码片段.md)
+## Taro
+[Taro采坑记录](Taro采坑记录.md)
 ## vue
 [vue的keep-alive](vue的keep-alive.md)
 ## 碎片积累
