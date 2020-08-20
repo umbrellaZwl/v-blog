@@ -1,15 +1,17 @@
 # My VuePress Blog
 
-## 代码规范篇
+#### 代码规范篇
 [vscode搭配linter&prettier](vscode搭配linter&prettier.md)
-## 常用代码
+#### 常用代码
 [常用代码片段](常用代码片段.md)
-## Taro
+#### Taro
 [Taro采坑记录](Taro采坑记录.md)
-## vue
+#### vue
 [vue的keep-alive](vue的keep-alive.md)
-## 碎片积累
+#### 碎片积累
 [浏览器进程和js线程](浏览器进程和js线程.md)
+
+[前端路由](前端路由.md)
 
 [script标签的async和deffer](script标签的async和deffer.md)
 
