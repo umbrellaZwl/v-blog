@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Hello VuePress',
+  title: 'My VuePress Blog',
   description: 'Just playing around',
   base: '/v-blog/',
   themeConfig: {
@@ -24,6 +24,7 @@ module.exports = {
         collapsable: false,
         children: [
           '/vue的keep-alive',
+          '/vuex',
         ]
       },
       {
