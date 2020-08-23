@@ -25,6 +25,7 @@ module.exports = {
         children: [
           '/vue的keep-alive',
           '/vuex',
+          '/vue生命周期梳理',
         ]
       },
       {

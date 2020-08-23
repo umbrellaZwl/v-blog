@@ -8,6 +8,10 @@
 [Taro采坑记录](Taro采坑记录.md)
 #### vue
 [vue的keep-alive](vue的keep-alive.md)
+
+[vuex](vuex.md)
+
+[vue生命周期梳理](vue生命周期梳理.md)
 #### 碎片积累
 [浏览器进程和js线程](浏览器进程和js线程.md)
 
