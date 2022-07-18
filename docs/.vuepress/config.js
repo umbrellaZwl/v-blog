@@ -30,6 +30,15 @@ module.exports = {
         ]
       },
       {
+        title: '小程序',
+        collapsable: false,
+        children: [
+          '/小程序生命周期',
+          '/小程序错误监控',
+          '/小程序调试工具',
+        ]
+      },
+      {
         title: '碎片积累',
         collapsable: false,
         children: [
@@ -38,6 +47,7 @@ module.exports = {
           '/script标签的async和deffer',
           '/Http1.0、Http1.1、Http2.0',
           '/fetch',
+          '/BFCache',
         ]
       },
     ]
