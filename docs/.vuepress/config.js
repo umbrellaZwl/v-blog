@@ -23,31 +23,31 @@ module.exports = {
         title: 'vue',
         collapsable: false,
         children: [
-          '/vue的keep-alive',
-          '/vuex',
-          '/vue生命周期梳理',
-          '/vue3响应式原理',
+          '/vue/vue的keep-alive',
+          '/vue/vuex',
+          '/vue/vue生命周期梳理',
+          '/vue/vue3响应式原理',
         ]
       },
       {
         title: '小程序',
         collapsable: false,
         children: [
-          '/小程序生命周期',
-          '/小程序错误监控',
-          '/小程序调试工具',
+          '/小程序/小程序生命周期',
+          '/小程序/小程序错误监控',
+          '/小程序/小程序调试工具',
         ]
       },
       {
-        title: '碎片积累',
+        title: '积累',
         collapsable: false,
         children: [
-          '/浏览器进程和js线程',
-          '/前端路由',
-          '/script标签的async和deffer',
-          '/Http1.0、Http1.1、Http2.0',
-          '/fetch',
-          '/BFCache',
+          '/积累/浏览器进程和js线程',
+          '/积累/前端路由',
+          '/积累/script标签的async和deffer',
+          '/积累/Http1.0、Http1.1、Http2.0',
+          '/积累/fetch',
+          '/积累/BFCache',
         ]
       },
     ]
